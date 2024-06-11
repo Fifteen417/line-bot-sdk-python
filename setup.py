@@ -178,7 +178,7 @@ with open('README.rst', 'r') as fd:
 
 setup(
     name="line-bot-sdk",
-    version=__version__,
+    version='1.19.0',
     author="RyosukeHasebe",
     author_email="hsb.1014@gmail.com",
     maintainer="RyosukeHasebe",
